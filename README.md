@@ -1,2 +1,3 @@
 # Hello-word
-inicio
+Mi nombre es Eduar y estudio la ingenieria en Sistemas
+
